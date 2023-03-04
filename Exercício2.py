@@ -1,6 +1,7 @@
 print('-'*35)
 print("Bem vindo a sequência de Fibonacci!")
 print('-'*35)
+
 # O programa pede ao usuario que insira o numero da conferencia
 n = int(input("Qual numero deseja conferir? "))
 
